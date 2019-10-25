@@ -1,7 +1,16 @@
-Explain “growth mindset” in your own words
-Include 3 reminders to yourself of how to keep yourself in a growth mindset
-1.
-2.
-3.
-Utilize at least 5 different features of Markdown to structure your page
+# Silas's Learning Journal
+**WHAT IS GROWTH MINDSET ?**
+
+Growth mindset is the warrior mentality that keeps one going in the advent of trials, obstacles, and challenges. It teaches one that the present conditions, however daunting they may be, will be overcome. As espoused by Marrie Currie:
+>nothing to be feared only to be understood. 
+
+Growth mindest is a constant reminder of the fact that though I may not understand or be an expert at what I am learning right now, as I commit more time and energy and feed my curious mind, I will master it.
+My three reminders to keep me in growth mindset are:
+1. Stay motivated
+2. Understand that the vicissitudes of life are bound to take their course but don't let them discourage you. 
+3. Celebrate little victories. 
+
 Be sure to introduce yourself, and include a link to your GitHub portfolio page
+
+My name is Silas Oyewale, an aspiring software engineer in the Seattle area. As an Iraqi war veteran, I served in the Army from 2014 to 2018 and it was at this time that my passion for software engineering was rekindled. I saw how the vast Army Finance system was upgraded from COBOL to SAP. The needlessly long processes became streamlined and morale was boosted. As a man on a mission, I plan to bring my candor to the field of software engineeering to impact the lives of people positively. 
+The link to my github page is:
