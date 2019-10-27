@@ -1,1 +1,13 @@
 
+ what are Text Editors?
+ What are the different classifications of text editors?
+ Why should developers be thoughtful picking a text editor?
+
+Record in your journal a “cheat sheet” or other resource for basic terminal usage.
+
+pwd
+Print Working Directory - ie. Where are we currently.
+ls
+List the contents of a directory.
+cd
+Change Directories - ie. move to another directory.
