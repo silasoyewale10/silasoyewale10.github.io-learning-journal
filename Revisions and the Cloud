@@ -1,1 +1,10 @@
-# go
+      What this thought me is that I can have multiple pages
+  in one repository and I can only use markdown syntax 
+  for a file ending with .md extension.
+  Also, I learnt that when I commit, I can include a 
+  commit message. Interestingly, in VS Code, git clone urlofrepository 
+  will clone the repository to my computer while perfectly
+  maintaining the file structure. 
+  It is extremely important to commit after every change and
+  the commit message should detail why the changes were made, not what 
+  changes were made. 
