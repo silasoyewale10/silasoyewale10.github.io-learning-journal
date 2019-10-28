@@ -1,0 +1,18 @@
+Summary of What I Learnt in Git Intro
+
+A remote repository is a version of a project residing online 
+or on a network. Git allows developers to collaborate on the same project
+while keeping accurate track of their joint and individual progresses.
+
+Key words and their meanins include:
+
+1. Cloning: Creating a copy of an existing repo. Command is git clone
+
+2. Committing: Gluing a message to a change. The command is git commit
+
+3. Pushing: Moving changes to the remote repository. The command is git push
+
+Other notable commands are:
+git commit --amend To alter a commit message
+git reset HEAD To unstage a file. 
+git revert to undo a snaphot
