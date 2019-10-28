@@ -15,7 +15,7 @@ For instance this piece of code
       }
     } ```
     
-    # will show as #
+    #will show as#
     
     function fancyAlert(arg) {
       if(arg) {
