@@ -1,9 +1,26 @@
 
  what are Text Editors?
+ Text editors are software that allow you to write code to build a software. The features of a text editor are
+ 1. Code Compilation 
+ 2. Syntax highlighting 
+ 3. A nice variety of themes 
+ 4. Ability to choose extensions
+ 
  What are the different classifications of text editors?
- Why should developers be thoughtful picking a text editor?
+ There are different types of text editors. Pycharm, Intellij, VS Code etc. 
+ Integerated Development Environment differs from text editors in the sense that 
+ it performs the functions of text editors plus more. It has a debugger feature,
+ class browser, class hierarchy diagram and object browser.
+ 
+ Why should  developers be thoughtful picking a text editor?
+ Developers have to be thoughtful about the text editor to use because of the varying specificties
+ and specialties of different editors. Essentially, the choice of a text editor 
+ should be based on Can you use the text editor that you love, 
+ cherish and swear by to make a complete web site successfully and
+ to your satisfaction? Yes? You can? Then fantastic, clearly the text
+ editor you’ve chosen got the job done.
 
-Record in your journal a “cheat sheet” or other resource for basic terminal usage.
+BASIC TERMINAL USAGE
 
 pwd
 Print Working Directory - ie. Where are we currently.
