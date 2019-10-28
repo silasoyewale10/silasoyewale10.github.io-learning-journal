@@ -9,6 +9,7 @@ or the code's original appearance in a text editor. To do this,
 include ``` pasted code ``` to manintain the format. 
 For instance this piece of code 
 
+
 ```function fancyAlert(arg) {
       if(arg) {
         $.facebox({div:'#foo'})
