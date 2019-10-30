@@ -8,7 +8,7 @@ Some of my hobbies include
 3. Fishing
 
 # Table of Content #
-1. Learning Markdown
+1. [Learning Markdown] (https://github.com/silasoyewale10/silasoyewale10.github.io-learning-journal/blob/master/LearningMarkdown.md)
 2. Revisions and the Cloud
 3. The Coder's Computer
 
