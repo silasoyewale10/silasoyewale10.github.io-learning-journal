@@ -11,13 +11,13 @@ Some of my hobbies include
 1. [Learning Markdown](https://github.com/silasoyewale10/silasoyewale10.github.io-learning-journal/blob/master/LearningMarkdown.md)
 2. [Revisions and the Cloud] (https://github.com/silasoyewale10/silasoyewale10.github.io-learning-journal/blob/master/Revisions%20and%20the%20Cloud)
 3. [The Coder's Computer](https://github.com/silasoyewale10/silasoyewale10.github.io-learning-journal/blob/master/The%20Coder's%20Computer)
-4. [Computer Architecture and Logic]
-5. [Design web pages with CSS]
-6. [Dynamic web pages with JavaScript]
-7. [Operators and Loops]
-8. [Programming with JavaScript]
-9. [Revision and the Cloud Git Intro]
-10. [Structured Web Pages in HTML]
+4. [Computer Architecture and Logic](https://github.com/silasoyewale10/silasoyewale10.github.io-learning-journal/blob/master/Computer%20Architecture%20and%20Logic)
+5. [Design web pages with CSS](https://github.com/silasoyewale10/silasoyewale10.github.io-learning-journal/blob/master/Design%20web%20pages%20with%20CSS)
+6. [Dynamic web pages with JavaScript](https://github.com/silasoyewale10/silasoyewale10.github.io-learning-journal/blob/master/Dynamic%20web%20pages%20with%20JavaScript)
+7. [Operators and Loops](https://github.com/silasoyewale10/silasoyewale10.github.io-learning-journal/blob/master/Operators%20and%20Loops)
+8. [Programming with JavaScript](https://github.com/silasoyewale10/silasoyewale10.github.io-learning-journal/blob/master/Programming%20with%20JavaScript)
+9. [Revision and the Cloud Git Intro](https://github.com/silasoyewale10/silasoyewale10.github.io-learning-journal/blob/master/Revision%20and%20the%20Cloud%20Git%20Intro)
+10. [Structured Web Pages in HTML](https://github.com/silasoyewale10/silasoyewale10.github.io-learning-journal/blob/master/Structured%20Web%20Pages%20in%20HTML)
 
 **WHAT IS GROWTH MINDSET ?**
 
