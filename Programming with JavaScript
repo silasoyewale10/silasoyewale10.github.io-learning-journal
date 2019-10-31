@@ -2,10 +2,20 @@ Javascript is an object oriented language that is capable of
 interacting directly to web pages making it a tool of choice 
 for front end developers. Javascript has robust in-built functions
 while also allowing programmers to create their own functions.
-For and while loops are used in Javascript.  
 
-Conditional operators include || and && which are 'or' and 'and' 
-respectively. Operators include -, +, /, and * to subtract, add, 
-divide, and multiply respectively. % is called the modulo operator
-and returns the remainder in a division operation. Other operators 
-include conditional, logical, assignment, and comparison operators. 
+The syntax to declare a function varies but the most commonly used one is:
+function greet(name){
+//block of code
+//optional return statement
+}
+greet()
+A function needs to be called to execute the content of the code. 
+Also, a function can be anonymous. A key importance of functions
+is that they help us to divide huge programs into manageable chunks
+of code called functions that make manipulating code easier and less 
+redundant.
+
+Though it was initially thought of as a client-side web browser language
+but its now actively being used on the server-side, databases, and in 
+non-web programs and mobile applications. Vanilla JS is a Javascript 
+not extended by any frameworks or additional libraries. 
