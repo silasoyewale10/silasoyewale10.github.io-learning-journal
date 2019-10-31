@@ -1,1 +1,27 @@
-for and while loops
+Conditional operators include || and && which are 'or' and 'and' 
+respectively. Operators include -, +, /, and * to subtract, add, 
+divide, and multiply respectively. % is called the modulo operator
+and returns the remainder in a division operation. Other operators 
+include conditional, logical, assignment, and comparison operators.
+++ and -- dincrease and decrease by 1 respecively.
+
+=== compares valeue and type while == compares value. eg 3=='3' is 
+going to be true because only values are compared which is 3. 3==='3' 
+equalls false because you ar comparing vale and type and since the 
+value is the same, the type is not. You are compering a string with a number.
+! is used to negate, = is the assignment operator, < means less than, > means greater than.
+
+For loop follows this syntax
+for(var x = 0; x<5; x++){
+//block of code
+}
+while while loop foloows this syntax
+var x = 0
+while(x < 5){
+//block of code
+x+
+}
+
+Loops are used to repeat a proces for a certain number of times
+without repeating the code. In some cases, it can work like a 
+recursive function. 
