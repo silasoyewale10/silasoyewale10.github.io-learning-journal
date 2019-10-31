@@ -1,0 +1,14 @@
+Interestingly, HTML, CSS and Javascript work together
+to create a dynamic and attrcative website. This 
+combination of the three allows us to make web pages
+dynamic and eliminated the problem of creating static
+web pages for each user. Integrating  JS into HTML, a
+document object model needs to be made for the HTML 
+document. In DOM, the document is represented as nodes
+and objects which are accessed by JS to manipulate the document. 
+
+Javascript can be used to create an alert on a click or 
+button inside an HTML document and other valuable JS 
+functions can be called as well. While it may look 
+complicated at first trying to wrap my mind around 
+how this works, it gets easier with time. 
