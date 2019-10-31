@@ -9,8 +9,15 @@ Some of my hobbies include
 
 # Table of Content #
 1. [Learning Markdown](https://github.com/silasoyewale10/silasoyewale10.github.io-learning-journal/blob/master/LearningMarkdown.md)
-2. Revisions and the Cloud
-3. The Coder's Computer
+2. [Revisions and the Cloud] (https://github.com/silasoyewale10/silasoyewale10.github.io-learning-journal/blob/master/Revisions%20and%20the%20Cloud)
+3. [The Coder's Computer](https://github.com/silasoyewale10/silasoyewale10.github.io-learning-journal/blob/master/The%20Coder's%20Computer)
+4. [Computer Architecture and Logic]
+5. [Design web pages with CSS]
+6. [Dynamic web pages with JavaScript]
+7. [Operators and Loops]
+8. [Programming with JavaScript]
+9. [Revision and the Cloud Git Intro]
+10. [Structured Web Pages in HTML]
 
 **WHAT IS GROWTH MINDSET ?**
 
