@@ -1,0 +1,13 @@
+CSS stands for Cascading Style Sheet. It is the driving force
+behind an attractive user interface. Essentially, everything 
+on the web page is treated as a box and CSS allows us to 
+manipulate the different attributes of each box. A tasteless 
+website without sophisticated CSS input will drive users to 
+other websites wit attractive interface.
+
+CSS has categories like font, dimensions, borders, background,
+position, float etc which can be adjusted. There are different 
+selectors which determine what is going to be affected by our 
+adjustments. Element, class, ID,universal, and group selectors 
+are the examples of selectors in CSS and their names indicate 
+what they select.
