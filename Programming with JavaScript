@@ -1,0 +1,11 @@
+Javascript is an object oriented language that is capable of 
+interacting directly to web pages making it a tool of choice 
+for front end developers. Javascript has robust in-built functions
+while also allowing programmers to create their own functions.
+For and while loops are used in Javascript.  
+
+Conditional operators include || and && which are 'or' and 'and' 
+respectively. Operators include -, +, /, and * to subtract, add, 
+divide, and multiply respectively. % is called the modulo operator
+and returns the remainder in a division operation. Other operators 
+include conditional, logical, assignment, and comparison operators. 
